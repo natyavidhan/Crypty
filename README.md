@@ -1,5 +1,7 @@
 # Crypty 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+
+
 ## What Is Crypty? 
 Crypty is a **Basic Desktop application** for **Encrypting and Decrypting** text with **Password protection**. Currently, Crypty is in BETA stage, So feel free to suggest new features. Crypty is open source so you can look into the code or maybe make some changes to it.
 
